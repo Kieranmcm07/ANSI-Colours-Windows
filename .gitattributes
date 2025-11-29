@@ -1,0 +1,5 @@
+# Force Windows batch files to keep CRLF and UTF-8
+*.bat text eol=crlf working-tree-encoding=UTF-8
+*.cmd text eol=crlf working-tree-encoding=UTF-8
+*.ps1 text eol=crlf
+
